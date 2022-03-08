@@ -7,7 +7,7 @@ Currently learning React Native and Node.Js 👨🏽‍💻 </br>
 Visit my <a target="ddd" href="https://www.linkedin.com/in/renancastrot">Linkedin 💼
 </p>
 
-<h3 align="center">Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
+<h3 align="center" style="line-heigth: 100px;">Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h3>
 <p align="center">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
@@ -20,17 +20,3 @@ Visit my <a target="ddd" href="https://www.linkedin.com/in/renancastrot">Linkedi
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=RenanTCastro&theme=react-dark&bg_color=20232a&hide_border=true" width="70%"/>
 </p>
-<!--
-**RenanTCastro/RenanTCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
