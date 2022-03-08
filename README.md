@@ -3,7 +3,7 @@
 <p align="center">
 I'm a Front-end React Developer from Brazil 💚💛 </br>
 Studying Control and Automation Engineering at UFMG 🎓 </br>
-Currently learning React Native 👨🏽‍💻 </br>
+Currently learning React Native and Node.Js 👨🏽‍💻 </br>
 Visit my <a target="ddd" href="https://www.linkedin.com/in/renancastrot">Linkedin 💼
 </p>
 
