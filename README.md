@@ -15,7 +15,3 @@ Visit my <a target="ddd" href="https://www.linkedin.com/in/renancastrot">Linkedi
   <!--- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/> -->
 </p>
 
-<h3 align="center">Stats <img src="https://user-images.githubusercontent.com/85813489/156953479-116685e2-1635-4fba-829f-d8280875ae9c.gif" width="30"/></h3>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=RenanTCastro&theme=react-dark&bg_color=20232a&hide_border=true" width="70%"/>
-</p>
