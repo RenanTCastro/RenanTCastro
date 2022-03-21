@@ -1,7 +1,7 @@
 <h1 align="center" >Hello World <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Renan Castro</h1>
 
 <p align="center">
-I'm a Front-end React Developer from Brazil 💚💛 </br>
+I'm a Web Developer from Brazil 💚💛 </br>
 Studying Control and Automation Engineering at UFMG 🎓 </br>
 Visit my <a target="ddd" href="https://www.linkedin.com/in/renancastrot">Linkedin 💼
 </p>
