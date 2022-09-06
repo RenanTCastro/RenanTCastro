@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Renan Castro
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Renan Castro
 ====================================================================================================================================
 
 Web developer
 -------------
 
-I'm a Web Developer from Brazil 💚💛 Studying Control and Automation Engineering at UFMG 🎓 Visit my Linkedin 💼
+I'm a Web Developer from Brazil 💚💛 Studying Control and Automation Engineering at UFMG 🎓
 
 * 🌍  I'm based in Belo Horizonte - MG
 * 🖥️  See my portfolio at [🔗](http://https://clever-mcnulty-b57283.netlify.app/)
@@ -27,7 +27,9 @@ I'm a Web Developer from Brazil 💚💛 Studying Control and Automation Enginee
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RenanTCastro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/renancastrot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/castrore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/renancastrot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/RenanTCastro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
