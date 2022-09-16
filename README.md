@@ -9,7 +9,7 @@ I'm a Web Developer from Brazil 💚💛 Studying Control and Automation Enginee
 * 🌍  I'm based in Belo Horizonte - MG
 * 🖥️  See my portfolio at [🔗](http://https://clever-mcnulty-b57283.netlify.app/)
 * ✉️  You can contact me at [renancastrotut@gmail.com](mailto:renancastrotut@gmail.com)
-* 🧠  I'm learning more about React and Javascript
+* 🧠  I'm learning more about React and NodeJs
 
 ### Skills
 
