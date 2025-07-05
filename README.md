@@ -4,12 +4,9 @@ Hi 👋🏼 My name is Renan Castro
 Web Fullstack developer
 -------------
 
-I'm a web developer from Brazil 🇧🇷, with a degree in Control and Automation Engineering from UFMG 🎓. Passionate about creating efficient and scalable web applications.
+I'm a web developer from Brazil 💚💛, with a degree in Control and Automation Engineering from UFMG 🎓. Passionate about creating efficient and scalable web applications.
 
-
-* 🌍  I'm based in Belo Horizonte - MG
 * ✉️  You can contact me at [renancastrotut@gmail.com](mailto:renancastrotut@gmail.com)
-* 🧠  I'm learning more about React and NodeJs
 
 ### Skills
 
